@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2588
     wikipedia: http://en.wikipedia.org/wiki/John_Lubbock,_1st_Baron_Avebury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28274#The-Beauties-of-Nature-and-the-Wonders-of-the-World-We-Live-In
 gutenberg_issued: '2009-03-08'
 gutenberg_type: Text
 identifiers:
