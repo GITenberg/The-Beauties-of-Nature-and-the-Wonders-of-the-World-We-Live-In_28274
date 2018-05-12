@@ -1,0 +1,33 @@
+_repo: The-Beauties-of-Nature-and-the-Wonders-of-the-World-We-Live-In_28274
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28274-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Lubbock, John, Sir
+    aliases:
+    - Lubbock, Sir John
+    - Lubbock, John, Baron Avebury
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '2588'
+    url: http://www.gutenberg.org/2009/agents/2588
+    wikipedia: http://en.wikipedia.org/wiki/John_Lubbock,_1st_Baron_Avebury
+description: ''
+gutenberg_issued: '2009-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28274'
+  lccn: 04005485
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcsh 'Natural history'
+- !lcsh 'Physical geography'
+- !lcc 'Q'
+title: The Beauties of Nature, and the Wonders of the World We Live In
+url: http://www.gutenberg.org/ebooks/28274
